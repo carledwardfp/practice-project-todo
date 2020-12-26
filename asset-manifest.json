@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/practice-project-todo/static/css/main.c052979d.chunk.css",
+    "main.js": "/practice-project-todo/static/js/main.08a898e1.chunk.js",
+    "main.js.map": "/practice-project-todo/static/js/main.08a898e1.chunk.js.map",
+    "runtime-main.js": "/practice-project-todo/static/js/runtime-main.b43bb9ca.js",
+    "runtime-main.js.map": "/practice-project-todo/static/js/runtime-main.b43bb9ca.js.map",
+    "static/js/2.6c44bdfd.chunk.js": "/practice-project-todo/static/js/2.6c44bdfd.chunk.js",
+    "static/js/2.6c44bdfd.chunk.js.map": "/practice-project-todo/static/js/2.6c44bdfd.chunk.js.map",
+    "index.html": "/practice-project-todo/index.html",
+    "static/css/main.c052979d.chunk.css.map": "/practice-project-todo/static/css/main.c052979d.chunk.css.map",
+    "static/js/2.6c44bdfd.chunk.js.LICENSE.txt": "/practice-project-todo/static/js/2.6c44bdfd.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/practice-project-todo/static/media/bg.934dafe8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b43bb9ca.js",
+    "static/js/2.6c44bdfd.chunk.js",
+    "static/css/main.c052979d.chunk.css",
+    "static/js/main.08a898e1.chunk.js"
+  ]
+}
